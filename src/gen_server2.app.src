@@ -1,0 +1,8 @@
+{application, gen_server2,
+ [{description, ""},
+  {vsn, "3.7.0"},
+  {registered, []},
+  {modules, []},
+  {applications, [kernel, stdlib]},
+  {env, []}
+ ]}.
